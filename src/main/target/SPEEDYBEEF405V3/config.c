@@ -72,4 +72,4 @@ void targetConfiguration(void)
     modeActivationConditionsMutable(4)->auxChannelIndex = 3;
     modeActivationConditionsMutable(4)->range.startStep = CHANNEL_VALUE_TO_STEP(1700);
     modeActivationConditionsMutable(4)->range.endStep   = CHANNEL_VALUE_TO_STEP(2100);
-}
+} // запуск сборки
